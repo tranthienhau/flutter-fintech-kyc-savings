@@ -10,7 +10,6 @@ pubspec.lock
 
 # IDE
 .idea/
-.vscode/
 *.iml
 
 # OS
@@ -25,6 +24,7 @@ android/app/profile
 android/app/release
 
 # iOS
+ios/
 ios/Pods/
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
@@ -33,3 +33,7 @@ ios/Runner.xcodeproj/xcuserdata/
 
 # Env
 .env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
