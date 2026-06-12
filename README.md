@@ -2,6 +2,16 @@
 
 Flutter POC for a gamified automatic savings fintech app.
 
+## Demo
+
+Real iOS-Simulator captures from the running app (see [FLOW.md](FLOW.md) for how they are generated).
+
+| Dashboard | Badges & streaks | Smart rules | KYC |
+| --- | --- | --- | --- |
+| ![Dashboard](screenshots/01-dashboard.png) | ![Badges](screenshots/02-badges.png) | ![Rules](screenshots/03-rules.png) | ![KYC](screenshots/04-kyc.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## What this demonstrates
 
 - Full bank connection via Powens-style DSP2 open banking (read-only)
